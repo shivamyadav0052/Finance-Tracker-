@@ -1,0 +1,23 @@
+{
+  "monthly_reports": [
+    {
+      "user_id": "69d3617a75ee75dda8dd8de2",
+      "month": "2026-04",
+      "total_spent": 13500,
+      "top_category": "Transport",
+      "overbudget_categories": [],
+      "report_data": {
+        "totalSpent": 13500,
+        "topCategory": "Transport",
+        "categoryBreakdown": {
+          "Travel": 500,
+          "Food": 2000,
+          "Transport": 5000,
+          "Rent": 5000,
+          "Health": 1000
+        },
+        "overbudgetCategories": []
+      }
+    }
+  ]
+}
